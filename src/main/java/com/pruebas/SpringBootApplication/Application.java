@@ -20,6 +20,7 @@ public class Application implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		logger.info("its my second logger xd");
+		System.exit(0);
 	}
 
 }

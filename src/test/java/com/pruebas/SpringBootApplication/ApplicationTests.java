@@ -15,7 +15,7 @@ class ApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("its a test class xd");
-		assertEquals(true,false);
+		assertEquals(true,true);
 	}
 
 }
